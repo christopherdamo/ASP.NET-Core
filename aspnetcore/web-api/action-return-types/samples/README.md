@@ -1,6 +1,6 @@
 # ASP.NET Core web API samples
 
-The following table provides a description of the various directories comprising the sample solution.
+The following table provides a description of the various directories comprising the sample solutions.
 
 | Directory                     | Purpose |
 | ----------------------------- | ------- |
